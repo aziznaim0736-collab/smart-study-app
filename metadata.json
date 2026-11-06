@@ -1,0 +1,6 @@
+{
+  "name": "MedhaSetu (মেধাসেতু)",
+  "description": "Adaptive bilingual (Bangla-English) study and exam platform for SSC, HSC, Admission, and BCS candidates with dynamic MCQ & CQ exams, study notes, friend challenges, AI diagnostics, and a Python ICT lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
